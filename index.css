@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: SeaGreen;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 20px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }#button { 
+    font-size: 44px; 
+    color: rgb(255, 255, 255); 
+    background: rgb(0, 0, 0) none repeat scroll 0% 0%; 
+    width: 64px; 
+    height: 58px; 
+    border-radius: 13px; 
+    border-style: none;} 
